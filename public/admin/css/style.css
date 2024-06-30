@@ -1,0 +1,33 @@
+*{
+  box-sizing: border-box;
+}
+.header{
+  color: aliceblue;
+  background: black;
+  padding: 10px;
+}
+.header .inner-logo a{
+  color: aliceblue;
+}
+.sider{
+  position: relative;
+  width: 200px;
+  background: #ddd;
+  height: 100vh;
+  top: 0px;
+}
+.main{
+  position: relative;
+  left: 200px;
+  top: -100vh;
+  height: 100vh;
+   
+}
+/* .footer{
+  position: absolute;
+  bottom: 0;
+  background: #000;
+  color: #ddd;
+  width: 100%;
+  padding: 10px;
+} */
